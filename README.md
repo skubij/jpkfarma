@@ -8,8 +8,6 @@ Oddzielny moduł napisany specjalnie dla systemu ROWIL będzie dostępny na stro
 
 # JPK FarMa
 
-Program napisany w języku Java v8. Nie wymaga specjalnej instalacji ani konfiguracji. 
-
 
 ![alt text](https://github.com/skubij/jpkfarma/blob/master/rowil_jpk.png)
 
