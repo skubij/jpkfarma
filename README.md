@@ -7,6 +7,23 @@ Repozytorium zawiera tylko część importującą pliki i tworzącą __XML JPK_F
 
 # JPK FarMa
 
+Program napisany w języku Java v8. Nie wymaga specjalnej instalacji ani konfiguracji. 
+
+
 ![alt text](https://github.com/skubij/jpkfarma/blob/master/rowil_jpk.png)
 
-Program napisany w języku Java v8. Nie wymaga specjalnej instalacji ani konfiguracji. 
+
+### Dane firmy
+![alt text](https://github.com/skubij/jpkfarma/blob/master/jpk_rowil_danefirmy.png)
+
+
+### Ustawienia programu
+![alt text](https://github.com/skubij/jpkfarma/blob/master/jpk_rowil_ustawienia.png)
+
+
+### Wynik importu pliku Magazyn
+![alt text](https://github.com/skubij/jpkfarma/blob/master/jpk_rowil_mag.png)
+
+
+### Wynik importu pliku Faktury
+![alt text](https://github.com/skubij/jpkfarma/blob/master/jpk_rowil_fa.png)
